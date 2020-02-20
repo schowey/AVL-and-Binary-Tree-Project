@@ -1,3 +1,5 @@
+Test
+
 from BinaryTreeClass import BinaryTree
 from BinaryTreeClass import TreeNode
 
